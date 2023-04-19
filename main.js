@@ -7,7 +7,11 @@ blog({
   avatar: "./sebastian.jpeg",
   avatarClass: "full",
 
-  links: [{ title: "Github", url: "https://github.com/sebastian009w" }, {title: "Twitter", url: "https://twitter.com/MmJohancs"}],
+  links: [
+    { title: "Email", url: "mailto:johancs.mm@gmail.com" },
+    { title: "Github", url: "https://github.com/sebastian009w" },
+  ],
 
-  favicon: "./sebastian.jpeg"
+  lang: "en",
+  favicon: "./sebastian.jpeg",
 });
