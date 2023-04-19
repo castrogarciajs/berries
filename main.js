@@ -5,13 +5,14 @@ blog({
   author: "Johan Sebastian",
   description: "Making Good Sweets - MGS",
   avatar: "./sebastian.jpeg",
-  avatarClass: "full",
+  avatarClass: "rounded-full",
 
   links: [
     { title: "Email", url: "mailto:johancs.mm@gmail.com" },
     { title: "Github", url: "https://github.com/sebastian009w" },
   ],
 
-  lang: "en",
+  lang: "es",
   favicon: "./sebastian.jpeg",
+  theme: "auto",
 });
