@@ -3,7 +3,7 @@ import blog from "https://deno.land/x/blog@0.5.0/blog.tsx";
 blog({
   title: "Berries",
   author: "Johan Sebastian",
-  description: "making good sweets",
+  description: "Making Good Sweets - MGS",
   avatar: "./sebastian.jpeg",
   avatarClass: "full",
 
