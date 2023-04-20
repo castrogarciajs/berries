@@ -1,7 +1,7 @@
 import blog from "https://deno.land/x/blog@0.5.0/blog.tsx";
 
 blog({
-  title: "Johan Sebastian",
+  title: "Sebastian",
   author: "Johan Sebastian",
   description: "Making Good Sweets - MGS",
   avatar: "./sebastian.jpeg",
@@ -12,7 +12,7 @@ blog({
     { title: "Github", url: "https://github.com/sebastian009w" },
   ],
 
-  lang: "es",
+  lang: "en",
   favicon: "./sebastian.jpeg",
   theme: "auto",
 });
