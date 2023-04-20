@@ -1,7 +1,6 @@
 {
   "lock": false,
   "tasks": {
-    "start": "deno run -A ./main.js",
-    "lint": "deno lint ./main.js"
+    "start": "deno run -A ./main.js"
   }
 }
