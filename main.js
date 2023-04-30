@@ -16,3 +16,5 @@ blog({
   favicon: "./sebastian.jpeg",
   theme: "auto",
 });
+
+// This is cool
